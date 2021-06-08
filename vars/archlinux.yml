@@ -16,7 +16,7 @@
 # ArchLinux bird2
 bird_major_version: 2
 
-# bird configurations are stored in /etc on RHEL instead of /etc/bird
+# bird configurations are stored in /etc on ArchLinux instead of /etc/bird
 bird_conf_dir: /etc
 
 bird_packages:
